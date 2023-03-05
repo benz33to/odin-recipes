@@ -1,7 +1,13 @@
 # odin-recipes
 
-The main objective of this project is to list different recipes.
+This project lists recipes and the detail of each.
 
-## Skills used:
+## Curriculum skills used:
 
-* TBD 
+* Ordered lists
+* Unordered lists
+* Navigation using links.
+* Images
+* Image styling
+* Image alternative text addition
+* Project structure using folders
