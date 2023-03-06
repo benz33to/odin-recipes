@@ -12,3 +12,7 @@ a {
 li {
     padding-top: 1em;
 }
+
+.recipes-wrapper {
+    text-align: center;
+}
